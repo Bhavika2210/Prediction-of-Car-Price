@@ -1,4 +1,4 @@
-# Prediction-of-Car-Price
+# Prediction-of-Car-Price 🚙 💰
 
 There are various factors that play a key role in determining the price of a car:
 - Power PS
