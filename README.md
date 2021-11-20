@@ -14,3 +14,6 @@ This project has been made using various Machine Learning libraries like:
 - Pandas
 - Sklearn
 - Random forest regressor from sklearn.ensemble
+
+## RESULT:
+RMSE value of 0.43
