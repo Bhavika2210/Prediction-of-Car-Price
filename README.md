@@ -8,7 +8,7 @@ There are various factors that play a key role in determining the price of a car
 - Model type
 - Kilometres travelled
 
-Using K- Nearest Neighbors and Linear Regression, I tried predicting the price of the car from the attrivutes given in the dataset.
+Using K- Nearest Neighbors and Linear Regression, I tried predicting the price of the car from the attributes given in the dataset.
 This project has been made using various Machine Learning libraries like:
 - Numpy
 - Pandas
